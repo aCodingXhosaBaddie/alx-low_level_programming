@@ -1,16 +1,12 @@
 #include <stdio.h>
 
-
-
 /**
  * main - Entry point
  *
  *Return: Always 0
  */
 
-
 int main(void)
-
 {
 	char acharacter;
 	int ainteger;
@@ -25,5 +21,4 @@ int main(void)
 	printf("Size of a float: %lu byte(s)\n", sizeof(afloat));
 
         return (0);
-
 }
